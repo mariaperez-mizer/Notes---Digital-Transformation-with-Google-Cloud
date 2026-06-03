@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "42a46d1ce49097a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a2d45bd36ddd099",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b65f12e59750d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lift and Shift.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lift and Shift"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f29caaa1da8f9c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "930bc5abd1111de7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7d9276210e46a76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "2bb5c364480921e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "e4b90b6272c3e847",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7bb334822905e0b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9732e124683d3599",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3049f7ca4413ae9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cloud Era.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Cloud Era"
+            }
+          },
+          {
+            "id": "c68cbf5b484ec3b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cloud Era.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Cloud Era"
+            }
+          },
+          {
+            "id": "e67885c3c8c1ce42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1f86b55fdde7b5a2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "5e7ad32a22c7c184",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cloud Era.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Cloud Era"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "5b65f12e59750d4a",
+  "lastOpenFiles": [
+    "Private cloud, hybrid cloud, and multi-cloud strategies.md",
+    "Fundamental Cloud Concepts.md",
+    "Capital expenditures (CapEx) vs operating expenses (OpEx).md",
+    "Total cost of ownership (TCO).md",
+    "Glosario.md",
+    "Why Cloud Technology is Transforming Business.md",
+    "Lift and Shift.md",
+    "índice.md",
+    "Beneficios.md",
+    "Cloud Era.md",
+    "La nube de transformación de Google.md",
+    "Prueba.md",
+    "Nube (What is the cloud?).md",
+    "Summary Why Cloud Technology is Transforming Business.md",
+    "Nube.md",
+    "2026-06-03.md",
+    "Bienvenido.md"
+  ]
+}
