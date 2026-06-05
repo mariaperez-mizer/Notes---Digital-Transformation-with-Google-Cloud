@@ -12,3 +12,8 @@ IP: Protocolo de Internet
  DNS: Sistema de Nombres de Dominio
  Ancho de banda: mide la cantidad de datos que puede transferir una red en un tiempo determinado(Mbps o Gbps).
  Latencia de red: es la cantidad de tiempo que tardan los datos en viajar de un punto a otro(milisegundos). 
+ appealing
+ FaaS Function as a Service ¿?
+ TlaaS Technology as a Service
+ CRM
+ 

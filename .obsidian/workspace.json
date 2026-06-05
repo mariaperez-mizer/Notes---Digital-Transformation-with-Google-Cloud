@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b72031a8cdbdedda",
+        "id": "e78b859fc4514c9c",
         "type": "tabs",
         "children": [
           {
-            "id": "c7e7ab5b10b78f45",
+            "id": "3ef3387c8fb5509a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PaaS.md",
+                "file": "Data management concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PaaS"
+              "title": "Data management concepts"
             }
           }
         ]
@@ -184,18 +184,28 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "c7e7ab5b10b78f45",
+  "active": "3ef3387c8fb5509a",
   "lastOpenFiles": [
-    "LaaS.md",
-    "PaaS.md",
-    "Cloud Computing Models and Shared Responsibility.md",
+    "The Value of Data.md",
     "Glosario.md",
+    "Data management concepts.md",
+    "LaaS.md",
+    "Exploring Data Transformation with Google Cloud.md",
+    "Cloud Digital Leader.md",
+    "Digital Transformation with Google Cloud.md",
+    "Quiz Cloud Computing Models and Shared Responsibility.md",
+    "Cloud Computing Models and Shared Responsibility.md",
+    "PaaS.md",
+    "Captura de pantalla 2026-06-05 a la(s) 10.43.41 a.m..png",
+    "Captura de pantalla 2026-06-05 a la(s) 10.41.13 a.m..png",
+    "Captura de pantalla 2026-06-05 a la(s) 10.40.12 a.m..png",
+    "SaaS.md",
+    "Sin título.canvas",
     "Cloud computing service models.md",
     "Fundamental Cloud Concepts.md",
     "Quiz Fundamental Cloud Concepts.md",
     "Nube (What is the cloud?).md",
     "La nube de transformación de Google.md",
-    "índice.md",
     "Lift and Shift.md",
     "Private cloud, hybrid cloud, and multi-cloud strategies.md",
     "Capital expenditures (CapEx) vs operating expenses (OpEx).md",
@@ -205,8 +215,6 @@
     "Cloud Era.md",
     "Prueba.md",
     "Summary Why Cloud Technology is Transforming Business.md",
-    "Nube.md",
-    "2026-06-03.md",
-    "Bienvenido.md"
+    "Nube.md"
   ]
 }
