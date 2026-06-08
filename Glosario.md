@@ -16,4 +16,7 @@ IP: Protocolo de Internet
  FaaS Function as a Service ¿?
  TlaaS Technology as a Service
  CRM
+ OLTP online transaction processing
+ OLAP online analytical processing
+ 
  

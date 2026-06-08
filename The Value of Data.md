@@ -1,6 +1,10 @@
 
 
 [[Data management concepts]]
+[[The role of data in digital transformation]]
+[[The data value chain]]
+[[Data governance]]
+[[Quiz The Value of Data ]]
 
 ---
 
@@ -33,3 +37,4 @@
 	1. Aprendizaje automático
 	2. Detección de productos con una foto
 	3. Etiquetar una foto para describir su contenido
+
