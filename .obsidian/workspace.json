@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innovating with Google Cloud Artificial Intelligence.md",
+                "file": "Quiz AI and ML Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Innovating with Google Cloud Artificial Intelligence"
+              "title": "Quiz AI and ML Fundamentals"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7bb334822905e0b3",
@@ -185,8 +186,13 @@
   },
   "active": "418d41ec4834101c",
   "lastOpenFiles": [
-    "Cloud Digital Leader.md",
+    "AI and ML Fundamentals.md",
+    "Machine Learning vs AI.md",
+    "Agentic AI.md",
+    "Quiz AI and ML Fundamentals.md",
+    "Machin Learning ve AI.md",
     "Innovating with Google Cloud Artificial Intelligence.md",
+    "Cloud Digital Leader.md",
     "Exploring Data Transformation with Google Cloud.md",
     "Making  Data Useful and Accessible.md",
     "Quiz Making Data Useful and Accessible.md",
@@ -207,11 +213,6 @@
     "The role of data in digital transformation.md",
     "The data value chain.md",
     "Data management concepts.md",
-    "Data governance.md",
-    "SaaS.md",
-    "LaaS.md",
-    "Digital Transformation with Google Cloud.md",
-    "Quiz Cloud Computing Models and Shared Responsibility.md",
     "Captura de pantalla 2026-06-05 a la(s) 10.43.41 a.m..png",
     "Captura de pantalla 2026-06-05 a la(s) 10.41.13 a.m..png",
     "Captura de pantalla 2026-06-05 a la(s) 10.40.12 a.m..png",
