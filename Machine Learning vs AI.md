@@ -1,3 +1,9 @@
+
+### AI
+Amplio campo de la informática dedicado a la creación de sistemas que pueden simular la inteligencia humana para realizar tareas. Estas tareas incluyen el aprendizaje, el razonamiento, la resolución de problemas y la toma de decisiones.
+
+
+---
 ### Machine learning
 
 Es un subconjunto de la IA que permite que una máquina aprenda de los datos sin ser programada explícitamente. Se basa en diversos modelos para analizar grandes cantidades de datos, extraer conclusiones y, posteriormente, realizar predicciones y tomar decisiones informadas.

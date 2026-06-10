@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "610d544c82284bb2",
+        "id": "41d0a32abc2c9f9d",
         "type": "tabs",
         "children": [
           {
-            "id": "418d41ec4834101c",
+            "id": "db62e5caaeaaa3b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quiz AI and ML Fundamentals.md",
+                "file": "Modernizing infrastructure in the cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quiz AI and ML Fundamentals"
+              "title": "Modernizing infrastructure in the cloud"
             }
           }
         ]
@@ -184,35 +184,38 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "418d41ec4834101c",
+  "active": "db62e5caaeaaa3b9",
   "lastOpenFiles": [
+    "Modernize Infrastructure and Applications with Google Cloud.md",
+    "Modernizing infrastructure in the cloud.md",
+    "Fundamentals of modernization.md",
+    "Quiz Fundamentals of modernization.md",
+    "Unlocking the value of the cloud.md",
+    "Cloud Digital Leader.md",
+    "Cloud Computing Models and Shared Responsibility.md",
+    "Fundamental Cloud Concepts.md",
+    "Glosario.md",
+    "Sin título.md",
     "AI and ML Fundamentals.md",
     "Machine Learning vs AI.md",
-    "Agentic AI.md",
-    "Quiz AI and ML Fundamentals.md",
-    "Machin Learning ve AI.md",
+    "Guias/Guia_Innovating with Google Cloud Artificial Intelligence.pdf",
+    "Guias/Sin confirmar 846463.crdownload",
+    "Guias",
     "Innovating with Google Cloud Artificial Intelligence.md",
-    "Cloud Digital Leader.md",
+    "Quiz Innovating with Google Cloud Artificial Intelligence.md",
+    "Google Cloud´s AI and ML Solutions.md",
+    "Four paths to build ML models.md",
+    "Google´s AI Hypercomputer.md",
+    "Sub and Dataflow.md",
+    "Quiz AI and ML Fundamentals.md",
+    "Agentic AI.md",
+    "Machin Learning ve AI.md",
     "Exploring Data Transformation with Google Cloud.md",
     "Making  Data Useful and Accessible.md",
     "Quiz Making Data Useful and Accessible.md",
     "Business intelligence and insights using Looker.md",
     "Streaming analytics.md",
-    "Pub/Sub and Dataflow.md",
     "Pub",
-    "Glosario.md",
-    "Google Cloud Data Management Solutions.md",
-    "Quiz Google Cloud Data Management Solutions.md",
-    "Unstructured data storage.md",
-    "Semi-structured data storage.md",
-    "Structured data storage.md",
-    "Database migration and modernization.md",
-    "Choosing the right storage product.md",
-    "Quiz The Value of Data.md",
-    "The Value of Data.md",
-    "The role of data in digital transformation.md",
-    "The data value chain.md",
-    "Data management concepts.md",
     "Captura de pantalla 2026-06-05 a la(s) 10.43.41 a.m..png",
     "Captura de pantalla 2026-06-05 a la(s) 10.41.13 a.m..png",
     "Captura de pantalla 2026-06-05 a la(s) 10.40.12 a.m..png",
