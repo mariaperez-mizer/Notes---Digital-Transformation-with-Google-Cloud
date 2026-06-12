@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "41d0a32abc2c9f9d",
+        "id": "a8581f1d78edaa01",
         "type": "tabs",
         "children": [
           {
-            "id": "db62e5caaeaaa3b9",
+            "id": "35dcccce68bc09e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modernizing infrastructure in the cloud.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Modernizing infrastructure in the cloud"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -74,7 +70,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,37 +181,38 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "db62e5caaeaaa3b9",
+  "active": "35dcccce68bc09e7",
   "lastOpenFiles": [
+    "Secure storage.md",
+    "Google´s trusted infrastructure.md",
+    "Data centers.md",
+    "Trust and Security with Google Cloud.md",
+    "Google Cloud´s trust principles and compliance.md",
+    "Fundamental cloud security concepts.md",
+    "Quiz Fundamental cloud security concepts.md",
+    "Google´s secure-by-desing cloud platform.md",
+    "Identity.md",
+    "Cloud security components.md",
+    "Cloud Digital Leader.md",
     "Modernize Infrastructure and Applications with Google Cloud.md",
     "Modernizing infrastructure in the cloud.md",
+    "Hybrid and multicloud management.md",
+    "Modern cloud computing models.md",
+    "Virtualization.md",
+    "Modernizing apps in the cloud.md",
+    "Guias/Guia_Modernizing apps in the cloud.pdf",
+    "Quiz Modernizing apps in the cloud.md",
+    "Application programming interfaces (APIs).md",
+    "Modern architectures and migration paths.md",
+    "Quiz Modernizing infrastructure in the cloud.md",
     "Fundamentals of modernization.md",
     "Quiz Fundamentals of modernization.md",
     "Unlocking the value of the cloud.md",
-    "Cloud Digital Leader.md",
     "Cloud Computing Models and Shared Responsibility.md",
     "Fundamental Cloud Concepts.md",
-    "Glosario.md",
-    "Sin título.md",
-    "AI and ML Fundamentals.md",
-    "Machine Learning vs AI.md",
     "Guias/Guia_Innovating with Google Cloud Artificial Intelligence.pdf",
     "Guias/Sin confirmar 846463.crdownload",
     "Guias",
-    "Innovating with Google Cloud Artificial Intelligence.md",
-    "Quiz Innovating with Google Cloud Artificial Intelligence.md",
-    "Google Cloud´s AI and ML Solutions.md",
-    "Four paths to build ML models.md",
-    "Google´s AI Hypercomputer.md",
-    "Sub and Dataflow.md",
-    "Quiz AI and ML Fundamentals.md",
-    "Agentic AI.md",
-    "Machin Learning ve AI.md",
-    "Exploring Data Transformation with Google Cloud.md",
-    "Making  Data Useful and Accessible.md",
-    "Quiz Making Data Useful and Accessible.md",
-    "Business intelligence and insights using Looker.md",
-    "Streaming analytics.md",
     "Pub",
     "Captura de pantalla 2026-06-05 a la(s) 10.43.41 a.m..png",
     "Captura de pantalla 2026-06-05 a la(s) 10.41.13 a.m..png",
