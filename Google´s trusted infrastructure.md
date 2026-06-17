@@ -1,2 +1,0 @@
-[[Data centers]]
-[[Secure storage]]

@@ -1,0 +1,5 @@
+[[Total cost of ownership]]
+[[Fundamental of cloud cost management]]
+[[Controlling access]]
+[[Controlling cloud consumption]]
+[[Quiz Financial governance and managing cloud costs]]

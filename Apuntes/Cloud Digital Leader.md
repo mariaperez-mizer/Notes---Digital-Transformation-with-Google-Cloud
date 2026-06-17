@@ -3,6 +3,10 @@
 [[Innovating with Google Cloud Artificial Intelligence]]
 [[Modernize Infrastructure and Applications with Google Cloud]]
 [[Trust and Security with Google Cloud]]
+[[Scalling with Google Cloud Operations]]
+
+
+[[Productos GCP]]
 
 
 [[Glosario]]
